@@ -1,0 +1,35 @@
+:root {
+    --primary-color: #AAD4F0;
+    --dark-blue: #009AFF;
+
+}
+header {
+    height: 570px;
+    padding-top: 150px;
+}
+
+a {
+    color:var(--dark-blue);
+  }
+
+  a:hover {
+      color:var(--primary-color);
+  }
+
+  #about-me {
+      padding-top: 50px;
+      height: 1000px;
+  }
+
+  #hand {
+      margin-bottom: 100px;
+  }
+
+  #resume{
+      padding-top: 50px;
+  }
+
+  #name {
+        font: bold;
+  }
+ 
